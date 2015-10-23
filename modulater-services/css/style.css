@@ -1,0 +1,588 @@
+body {
+}
+
+.logo {
+}
+
+
+
+
+    .logo span {
+        color: #fff;
+        font-family: hobo std;
+        font-size: 2em;
+        line-height: 1.5;
+    }
+
+.google {
+    padding-top: 15px;
+}
+
+.navbar-inverse {
+    background: rgba(0, 0, 0, 0.7) none repeat scroll 0 0;
+}
+
+.flag {
+    height: 20px;
+    width: 20px;
+}
+
+.contact {
+    color: #fff;
+    float: right;
+    font-family: verdana;
+    margin-top: 5px;
+}
+
+.jumbotron {
+    text-align: center;
+    padding-bottom: 16%;
+    padding-top: 17%;
+}
+
+    .jumbotron h1 {
+        color: #fff;
+        font-family: "Times New Roman";
+        font-weight: 600;
+        text-shadow: 1px 1px 10px #fff;
+    }
+
+    .jumbotron p {
+        color: #f4f4f4;
+        font-family: verdana;
+    }
+
+.goal {
+    text-align: center;
+    text-align: -moz-center;
+    text-align: -webkit-center;
+}
+
+    .goal span {
+        font-size: 60px;
+    }
+
+.services h3 {
+    text-align: center;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.services h2 {
+    text-align: center;
+    font-family: aleoregular;
+    font-size: 45px;
+    margin-bottom: 3%;
+    color: #7ec0ee;
+    font-weight: bold;
+}
+
+.services a {
+    text-decoration: none;
+}
+
+.services img:hover {
+    box-shadow: 0 0 15px 0 #7EC0EE;
+    opacity: 0.7;
+    position: relative;
+    transform: scale(1.1,1.1);
+}
+
+.description p {
+    font-family: Verdana;
+    text-align: justify;
+    font-size: 22px;
+    color: #606060;
+}
+
+.description {
+    text-align: center;
+}
+
+    .description h2 {
+        text-align: center;
+        font-family: aleoregular;
+        font-size: 45px;
+        color: #7ec0ee;
+        font-weight: bold;
+    }
+
+.vision h2 {
+    text-align: center;
+    font-family: aleoregular;
+    font-size: 45px;
+    color: #7ec0ee;
+    font-weight: bold;
+}
+
+.product h2 {
+    text-align: center;
+    font-family: aleoregular;
+    font-size: 45px;
+    color: #7ec0ee;
+    font-weight: bold;
+}
+
+.product h3 {
+    text-align: center;
+}
+
+.product a {
+    text-decoration: none;
+}
+
+.product img {
+    opacity: 0.2;
+}
+
+    .product img:hover {
+        opacity: 1;
+    }
+
+hr {
+    border-style: dashed;
+}
+
+.sicon li {
+    line-height: 3;
+}
+
+
+.sicon {
+    list-style: none;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.social ul {
+}
+
+.sicon img {
+    opacity: 0.7;
+}
+
+    .sicon img:hover {
+        opacity: 1;
+    }
+
+.social h6 {
+    color: #337ab7;
+    font-family: cursive;
+    font-size: 15px;
+    margin-left: 35%;
+    text-align: center;
+    font-weight: bold;
+}
+
+.fnav {
+    list-style: none;
+    margin-top: 4%;
+}
+
+    .fnav a {
+        text-decoration: none;
+    }
+
+.footer p {
+    font-family: Verdana;
+    font-size: 12px;
+}
+
+.vision p {
+    font-family: cursive;
+    font-size: 22px;
+    text-align: justify;
+    margin-left: 40px;
+    color: #707070;
+}
+
+.vision span {
+    color: #707070;
+    float: left;
+    font-size: 22px;
+    line-height: 1.5;
+}
+
+.vision ul {
+    font-weight: normal;
+    list-style: none;
+}
+
+.slide-mar {
+    margin-top: 7%;
+}
+
+.image {
+}
+
+    .image img {
+        opacity: 1;
+    }
+
+.primaryc {
+    background: #428bca;
+}
+
+.primaryc1 {
+    background: #9F123A;
+}
+
+.successc {
+    background: #5cb85c;
+}
+
+.successc1 {
+    background: #00BB84;
+}
+
+.infoc {
+    background: #5bc0de;
+}
+
+.infoc1 {
+    background: #E8245C;
+}
+
+.warningc {
+    background: #f0ad4e;
+}
+
+.warningc1 {
+    background: #424242;
+}
+
+.servicecol h3 {
+    color: #fff;
+    font-family: aleoregular;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.servicecol span {
+    float: left;
+    line-height: 1.5;
+    margin-left: -5px;
+    color: #fff;
+}
+
+.servicecol p {
+    color: #fff;
+    font-family: verdana;
+    margin-left: 14px;
+    text-align: justify;
+    text-transform: capitalize;
+}
+
+.services-head h3 {
+    font-family: aleoregular;
+    color: #7ec0ee;
+    font-weight: bold;
+}
+
+.share img {
+    float: right;
+}
+
+.colwidth {
+    border-radius: 5px 60px;
+    height: 425px;
+    margin: 1%;
+    padding-top: 15px;
+    width: 23%;
+    cursor: pointer;
+}
+
+.person {
+    text-align: center;
+    text-align: -moz-center;
+    text-align: -webkit-center;
+}
+
+    .person h3 {
+        color: #337ab7;
+        font-family: Courier;
+        font-weight: bold;
+        text-transform: uppercase;
+    }
+
+    .person h4 {
+        color: #777;
+        font-family: Verdana;
+        text-transform: uppercase;
+        font-size: 14px;
+    }
+
+    .person img {
+        opacity: 1;
+        cursor: pointer;
+    }
+
+        .person img:hover {
+            box-shadow: 0 0 15px 0 #337AC3;
+            opacity: 1;
+            position: relative;
+            transform: scale(1.1,1.1);
+            z-index: -1;
+        }
+
+.engg li {
+    margin-left: 12px !important;
+}
+
+.about p {
+    color: #707070;
+    font-family: cursive;
+    font-size: 16px;
+    line-height: 2;
+    text-align: justify;
+}
+
+.trin h1 {
+    color: #337ab7;
+    font-family: Verdana;
+    font-weight: bold;
+}
+
+    .trin h1 span {
+        font-family: aleoregular;
+        color: #333;
+    }
+
+.trin p span {
+    color: #666;
+    font-weight: bold;
+    font-family: verdana;
+}
+
+.trin b {
+    color: #337ab7;
+    font-family: verdana;
+    font-weight: normal;
+}
+
+.service_icon h3 {
+    color: #337AC3;
+    font-family: verdana;
+    line-height: 2;
+    text-align: center;
+}
+
+.service_icon p {
+    text-align: center;
+}
+
+.service_icon span {
+    line-height: 75px;
+    background: #5BC0DE none repeat scroll 0 0;
+    border-radius: 10px;
+    color: #fff;
+    float: left;
+    font-size: 34px;
+    height: 78px;
+    text-align: center;
+    width: 75px;
+}
+
+.infra img {
+    border-radius: 10px;
+}
+
+.seco {
+    margin-top: 10px;
+}
+
+.google-maps {
+    position: relative;
+    padding-bottom: 35%;
+    // This is the aspect ratio height: 0;
+    overflow: hidden;
+}
+
+    .google-maps iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100% !important;
+        /* height: 100% !important;*/
+    }
+
+.cont span {
+    float: left;
+    font-size: 20px;
+    color: #707070;
+}
+
+.cont p {
+    font-family: verdana;
+    margin-bottom: 4%;
+    margin-left: 8%;
+}
+
+.cont h3 {
+    color: #7ec0ee;
+    font-family: aleoregular;
+    font-size: 36px;
+    margin-bottom: 5%;
+}
+
+.cont input, textarea {
+    margin-bottom: 3%;
+    font-weight: bold;
+    font-family: verdana;
+    color: #999;
+}
+
+.back_top_1 {
+    background: rgba(126,192,238,0.7) !important;
+    border-radius: 100%;
+    bottom: 22px;
+    color: #fff;
+    cursor: pointer;
+    display: none;
+    font-weight: 700;
+    height: 50px;
+    left: 15px;
+    line-height: 50px;
+    position: fixed;
+    text-align: center;
+    width: 50px;
+    z-index: 9999;
+}
+
+    .back_top_1 span {
+        font-size: 30px;
+        line-height: 1.4;
+    }
+
+        .back_top_1 span:hover {
+            color: #fff !important;
+        }
+
+.Product {
+    background: #fff none repeat scroll 0 0;
+    border-radius: 5px 70px;
+    box-shadow: 0 0 10px 0 #eee;
+    height: 315px;
+    margin: 1%;
+    padding: 5%;
+    text-align: center;
+    width: 31.333%;
+}
+
+
+
+
+    .Product h2 {
+        color: #337ab7;
+        font-family: Courier;
+        text-transform: uppercase;
+        min-height: 4.25rem;
+    }
+
+    .Product h5 {
+        color: #777;
+        font-family: Verdana;
+        font-size: 14px;
+        text-transform: uppercase;
+        font-size: 1.2rem;
+        min-height: 3.25rem;
+    }
+
+    .Product img {
+        border-radius: 5px;
+    }
+
+    .Product a {
+        font-family: verdana;
+        text-decoration: none;
+        text-transform: capitalize;
+    }
+
+        .Product a:hover {
+            color: #337ab7;
+        }
+
+.one:hover {
+    background: #f5f5f5;
+    border: none;
+    cursor: pointer;
+}
+
+.two:hover {
+    background: #f5f5f5;
+    border: none;
+    cursor: pointer;
+}
+
+.three:hover {
+    background: #f5f5f5;
+    border: none;
+    cursor: pointer;
+}
+
+.four:hover {
+    background: #f5f5f5;
+    border: none;
+    cursor: pointer;
+}
+
+.five:hover {
+    background: #f5f5f5;
+    border: none;
+    cursor: pointer;
+}
+
+.six:hover {
+    background: #f5f5f5;
+    border: none;
+    cursor: pointer;
+}
+
+.seven:hover {
+    background: #f5f5f5;
+    border: none;
+    cursor: pointer;
+}
+
+.train_des {
+    padding-top: 2%;
+}
+
+    .train_des h1 {
+        color: #337ab7;
+        font-family: Verdana;
+        font-weight: bold;
+    }
+
+        .train_des h1 span {
+            color: #333;
+            font-family: aleoregular;
+        }
+
+    .train_des p {
+        color: #707070;
+        font-family: verdana;
+        font-size: 16px;
+        line-height: 1.9;
+        text-align: justify;
+        text-transform: capitalize;
+    }
+
+        .train_des p span {
+            color: #666;
+            font-family: verdana;
+            font-weight: bold;
+        }
+
+    .train_des b {
+        color: #337ab7;
+        font-family: verdana;
+        font-weight: normal;
+        text-transform: none;
+    }
+
+.folow {
+    position: fixed;
+    background: rgba(0, 0, 0, 0.9) none repeat scroll 0 0;
+    top: 40%;
+    border-radius: 0 10px 10px 0;
+}

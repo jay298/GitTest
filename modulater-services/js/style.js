@@ -1,0 +1,1 @@
+$('.dropdown').hover(Function(){$('.dropdown-toggle',this).trigger('click');});
